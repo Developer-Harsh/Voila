@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "425859960997",
+    "project_id": "voila-sneva",
+    "storage_bucket": "voila-sneva.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:425859960997:android:ecb97b209bd8ab66cc7d4c",
+        "android_client_info": {
+          "package_name": "in.snbapps.vidmeet"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDq0J6wz7Hu46PHTQutNZNmIfBpiBa0c5o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
