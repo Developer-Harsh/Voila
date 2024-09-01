@@ -34,27 +34,26 @@ The app "Voila" is designed to be a versatile communication platform, offering u
 Here are some screenshots of the Voila app:
 
 <div align="center">
-    <img src="https://github.com/Developer-Harsh/Voila/blob/main/Voila/ss (1).png?raw=true" alt="Screenshot 1" height="300" />
-<img src="https://github.com/Developer-Harsh/Voila/blob/main/Voila/ss (2).png?raw=true" alt="Screenshot 2" height="300" />
-<img src="https://github.com/Developer-Harsh/Voila/blob/main/Voila/ss (3).png?raw=true" alt="Screenshot 3" height="300" />
-<img src="https://github.com/Developer-Harsh/Voila/blob/main/Voila/ss (4).png?raw=true" alt="Screenshot 4" height="300" />
-<img src="https://github.com/Developer-Harsh/Voila/blob/main/Voila/ss (5).png?raw=true" alt="Screenshot 5" height="300" />
-<img src="https://github.com/Developer-Harsh/Voila/blob/main/Voila/ss (6).png?raw=true" alt="Screenshot 6" height="300" />
-<img src="https://github.com/Developer-Harsh/Voila/blob/main/Voila/ss (7).png?raw=true" alt="Screenshot 7" height="300" />
-<img src="https://github.com/Developer-Harsh/Voila/blob/main/Voila/ss (8).png?raw=true" alt="Screenshot 8" height="300" />
-<img src="https://github.com/Developer-Harsh/Voila/blob/main/Voila/ss (9).png?raw=true" alt="Screenshot 9" height="300" />
-<img src="https://github.com/Developer-Harsh/Voila/blob/main/Voila/ss (10).png?raw=true" alt="Screenshot 10" height="300" />
-<img src="https://github.com/Developer-Harsh/Voila/blob/main/Voila/ss (11).png?raw=true" alt="Screenshot 11" height="300" />
-<img src="https://github.com/Developer-Harsh/Voila/blob/main/Voila/ss (12).png?raw=true" alt="Screenshot 12" height="300" />
-<img src="https://github.com/Developer-Harsh/Voila/blob/main/Voila/ss (13).png?raw=true" alt="Screenshot 13" height="300" />
-<img src="https://github.com/Developer-Harsh/Voila/blob/main/Voila/ss (14).png?raw=true" alt="Screenshot 14" height="300" />
-<img src="https://github.com/Developer-Harsh/Voila/blob/main/Voila/ss (15).png?raw=true" alt="Screenshot 15" height="300" />
-<img src="https://github.com/Developer-Harsh/Voila/blob/main/Voila/ss (16).png?raw=true" alt="Screenshot 16" height="300" />
-<img src="https://github.com/Developer-Harsh/Voila/blob/main/Voila/ss (17).png?raw=true" alt="Screenshot 17" height="300" />
-<img src="https://github.com/Developer-Harsh/Voila/blob/main/Voila/ss (18).png?raw=true" alt="Screenshot 18" height="300" />
-<img src="https://github.com/Developer-Harsh/Voila/blob/main/Voila/ss (19).png?raw=true" alt="Screenshot 19" height="300" />
-<img src="https://github.com/Developer-Harsh/Voila/blob/main/Voila/ss (20).png?raw=true" alt="Screenshot 20" height="300" />
-
+    <img src="https://raw.githubusercontent.com/Developer-Harsh/Voila/master/Voila/ss%20(1).png" alt="Screenshot 1" height="300" />
+    <img src="https://raw.githubusercontent.com/Developer-Harsh/Voila/master/Voila/ss%20(2).png" alt="Screenshot 2" height="300" />
+    <img src="https://raw.githubusercontent.com/Developer-Harsh/Voila/master/Voila/ss%20(3).png" alt="Screenshot 3" height="300" />
+    <img src="https://raw.githubusercontent.com/Developer-Harsh/Voila/master/Voila/ss%20(4).png" alt="Screenshot 4" height="300" />
+    <img src="https://raw.githubusercontent.com/Developer-Harsh/Voila/master/Voila/ss%20(5).png" alt="Screenshot 5" height="300" />
+    <img src="https://raw.githubusercontent.com/Developer-Harsh/Voila/master/Voila/ss%20(6).png" alt="Screenshot 6" height="300" />
+    <img src="https://raw.githubusercontent.com/Developer-Harsh/Voila/master/Voila/ss%20(7).png" alt="Screenshot 7" height="300" />
+    <img src="https://raw.githubusercontent.com/Developer-Harsh/Voila/master/Voila/ss%20(8).png" alt="Screenshot 8" height="300" />
+    <img src="https://raw.githubusercontent.com/Developer-Harsh/Voila/master/Voila/ss%20(9).png" alt="Screenshot 9" height="300" />
+    <img src="https://raw.githubusercontent.com/Developer-Harsh/Voila/master/Voila/ss%20(10).png" alt="Screenshot 10" height="300" />
+    <img src="https://raw.githubusercontent.com/Developer-Harsh/Voila/master/Voila/ss%20(11).png" alt="Screenshot 11" height="300" />
+    <img src="https://raw.githubusercontent.com/Developer-Harsh/Voila/master/Voila/ss%20(12).png" alt="Screenshot 12" height="300" />
+    <img src="https://raw.githubusercontent.com/Developer-Harsh/Voila/master/Voila/ss%20(13).png" alt="Screenshot 13" height="300" />
+    <img src="https://raw.githubusercontent.com/Developer-Harsh/Voila/master/Voila/ss%20(14).png" alt="Screenshot 14" height="300" />
+    <img src="https://raw.githubusercontent.com/Developer-Harsh/Voila/master/Voila/ss%20(15).png" alt="Screenshot 15" height="300" />
+    <img src="https://raw.githubusercontent.com/Developer-Harsh/Voila/master/Voila/ss%20(16).png" alt="Screenshot 16" height="300" />
+    <img src="https://raw.githubusercontent.com/Developer-Harsh/Voila/master/Voila/ss%20(17).png" alt="Screenshot 17" height="300" />
+    <img src="https://raw.githubusercontent.com/Developer-Harsh/Voila/master/Voila/ss%20(18).png" alt="Screenshot 18" height="300" />
+    <img src="https://raw.githubusercontent.com/Developer-Harsh/Voila/master/Voila/ss%20(19).png" alt="Screenshot 19" height="300" />
+    <img src="https://raw.githubusercontent.com/Developer-Harsh/Voila/master/Voila/ss%20(20).png" alt="Screenshot 20" height="300" />
 </div>
 
 ## Social Media
